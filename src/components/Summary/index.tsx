@@ -24,10 +24,10 @@ export function Summary(){
             </div>
             <div className="total-background">
                 <header>
-                    <p>Entradas</p>
+                    <p>Total</p>
                     <img src={totalImg} alt="Total" />
                 </header>
-                <strong>R$1000,00</strong>
+                <strong>R$500,00</strong>
             </div>
         <h1>Summary</h1>
         </Container>
